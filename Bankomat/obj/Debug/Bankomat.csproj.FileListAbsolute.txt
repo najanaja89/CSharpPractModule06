@@ -1,0 +1,6 @@
+C:\Users\r.tyo\source\repos\CSharpPractModule06\Bankomat\bin\Debug\Bankomat.dll
+C:\Users\r.tyo\source\repos\CSharpPractModule06\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\r.tyo\source\repos\CSharpPractModule06\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\r.tyo\source\repos\CSharpPractModule06\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\r.tyo\source\repos\CSharpPractModule06\Bankomat\obj\Debug\Bankomat.dll
+C:\Users\r.tyo\source\repos\CSharpPractModule06\Bankomat\obj\Debug\Bankomat.pdb

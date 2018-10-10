@@ -1,0 +1,10 @@
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\bin\Debug\CSharpPractModule06.exe.config
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\bin\Debug\CSharpPractModule06.exe
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\bin\Debug\CSharpPractModule06.pdb
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\obj\Debug\CSharpPractModule06.csprojAssemblyReference.cache
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\obj\Debug\CSharpPractModule06.csproj.CoreCompileInputs.cache
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\obj\Debug\CSharpPractModule06.exe
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\obj\Debug\CSharpPractModule06.pdb
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\bin\Debug\Bankomat.dll
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\bin\Debug\Bankomat.pdb
+C:\Users\r.tyo\source\repos\CSharpPractModule06\CSharpPractModule06\obj\Debug\CSharpPractModule06.csproj.CopyComplete
